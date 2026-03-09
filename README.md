@@ -37,32 +37,6 @@ The main objectives of this laboratory are:
 
 ---
 
-# Project Structure
-
-```
-ia-lab02-numpy-pandas/
-│
-├── README.md
-├── requirements.txt
-├── .gitignore
-│
-├── cerinta_3_1_numpy.py
-├── cerinta_3_2_pandas.py
-├── cerinta_3_3_matplotlib.py
-├── cerinta_3_4_seaborn.py
-├── cerinta_3_5_heatmap.py
-├── cerinta_3_6_titanic.py
-│
-└── tema/
-    ├── tema_a_numpy.py
-    ├── tema_b_tips.py
-    ├── tema_c_dashboard.py
-    ├── tema_d_bonus_iris.py
-    └── tema_e_colab.ipynb
-```
-
----
-
 # Installation
 
 ## 1. Clone the repository
